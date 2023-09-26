@@ -1,2 +1,2 @@
 # LA-DocFlatten
-Layout-Aware Single-Image Document Flattening
+Code and Dataset for our paper: Layout-Aware Single-Image Document Flattening
